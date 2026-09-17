@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transactional Business Backend"
+  short_description: "Extend a secure Spring Boot ordering backend"
+  default_prompt: "Use $sky-take-out-skill to design this Spring Boot ordering-system feature."
